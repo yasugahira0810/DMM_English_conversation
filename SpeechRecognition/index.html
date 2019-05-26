@@ -18,10 +18,12 @@
 
         const btn = document.getElementById('btn');
         const content = document.getElementById('content');
+        i=0;
 
         btn.addEventListener('click', function () {
             // 音声認識をスタート
             speech.start();
+            setInterval(log, 300000);
         });
 
         // speech.addEventListener('result' , function(e) {
@@ -50,6 +52,13 @@
         speech.onend = () => {
             speech.start()
         };
+
+        var log = function(){
+            i++;
+            elapsedMin = 300 * i / 60
+            content.innerHTML += '<h2>' + elapsedMin + '分経過 ' + '</h2>';
+        };
+
     </script>
 
 </body>
