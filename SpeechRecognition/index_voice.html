@@ -14,7 +14,7 @@
     <script></script>
     <script>
         const speech = new webkitSpeechRecognition();
-        speech.lang = 'ja-JP';
+        speech.lang = 'en-US';
 
         const btn = document.getElementById('btn');
         const content = document.getElementById('content');
@@ -43,6 +43,7 @@
               console.log(e);
               console.log(autotext);
               content.innerHTML += '<div>' + autotext + '</div>';
+              scrollTo(0,content.scrollHeight);
             }
         }
 
