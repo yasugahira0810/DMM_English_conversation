@@ -23,7 +23,7 @@
         btn.addEventListener('click', function () {
             // 音声認識をスタート
             speech.start();
-            setInterval(log, 300000);
+            setInterval(log, 60000);
         });
 
         // speech.addEventListener('result' , function(e) {
@@ -55,8 +55,7 @@
 
         var log = function(){
             i++;
-            elapsedMin = 300 * i / 60
-            content.innerHTML += '<h2>' + elapsedMin + '分経過 ' + '</h2>';
+            content.innerHTML += '<h3>' + i + '分経過 ' + '</h3>';
         };
 
     </script>
