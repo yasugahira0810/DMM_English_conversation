@@ -1,2 +1,3 @@
 Just a moment: 待って
 None so far: 今のところない
+All clear: （追加の質問があるか問われたケースで）わかった、クリアになった
