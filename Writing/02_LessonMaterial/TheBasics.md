@@ -65,4 +65,4 @@ What are some other tips that you would give to someone for making a good busine
 3. Do you prefer to talk to the person you are calling or to leave a message? Why?電話をかけた相手と話すのと、伝言を残すのとではどちらの方が良いか。なぜか。
    1. I prefer to talk the person who is calling. I usually use e-mail to communicate with a person who use English. When I call to the person who communicate with English, it means I am in hurry. So, I would like to talk the person about urgent business. I expect leaving a message is too late most of cases. 
 4. When you realize that you have called the wrong number by mistake, do you wait and apologize to the person or do you just hang up? Why?間違った番号にかけてしまったと気付いた時、待って相手に謝るか、それともすぐ電話を切るか。なぜか。
-   1. 
+   1. I wait and apologize to the person. Because most of cases, I cannot notice calling the  wrong number till the person answer the phone.
