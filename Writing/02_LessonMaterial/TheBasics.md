@@ -27,10 +27,10 @@ What are some other tips that you would give to someone for making a good busine
 ## Making Requests
 
 - Do you feel comfortable asking someone to do something for you?（自分のため、だれかに何かを簡単に依頼できると思うか。）
-  - I feel comfortable asking someone todo something. 
-    Additionally I think that we should not have to hesitate asking someone to do something. 
-    Because there are many things which I do not know how to treat. 
-    The important thing on business is advancing tasks with asking someone, not stopping tasks because of hesitate.
+  - I feel comfortable asking someone to do something.
+    Additionally I think that we should not hesitate to ask someone to do something.
+    Because there are many things which I do not know how to treat.
+    The important thing on business is advancing tasks by asking someone, not stopping tasks because of hesitation. 
     （私は誰かに何かを依頼するのは簡単と感がえている。
     加えて、我々は誰かに何かを依頼することをためらうべきではないと考える。
     なぜなら私が扱い方を知らない事柄がたくさんあるから。
