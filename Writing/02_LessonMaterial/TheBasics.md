@@ -42,13 +42,15 @@ What are some other tips that you would give to someone for making a good busine
 
 - Is it easy for you to say 'no' to others? Why? Why not?（他の人に「できない」というのは簡単か。なぜ簡単か。簡単ではないか。）
 
-  - It is not easy for me to say 'no' to others, espacially for my customers.
-    Since I am engineer, I consider that our mission is enabling something which my customers cannot do.
-    When I cannot help saying 'no' to my customers, I prepare some alternatives.
+  - It is not easy for me to say 'no' to others, especially to my customers. 
+    
+    Since I am an engineer, I consider that our mission is enabling something which my customers cannot do. 
 
+    When I cannot help saying 'no' to my customers, I prepare some alternatives.
+    
     私にとって相手に「no」と言うのは簡単なことではない。私はエンジニアなので、我々の目的はお客様ができない何かを可能にすることだと考えている。顧客に「no」と言わざるを得ないときは、いくつかの代替案を準備する。
 
 - Do you ever say 'no' to your boss? Why? Why not?（上司に「できない」と言うことがあるか。なぜあるか。ないか。）
 
-  - I have ever said 'no' to my boss. When my boss request which I unconvinced or I disagree, I do not hesitate to saying 'no' to my boss. I know that my boss will understand if I accout why I say 'no'.
+  - I have said 'no' to my boss before. When my boss requests something which I am unconvinced or I disagree with, I do not hesitate to say 'no' to my boss. I know that my boss will understand if I give a reason why I say 'no'.
     上司に'no'と言った経験はあります。上司が、私が納得できなかったり、賛成できない依頼をしてきた際には、私はためらわず'no'と言います。理由を説明すれば上司が理解してくれると知っているからです。
