@@ -54,3 +54,15 @@ What are some other tips that you would give to someone for making a good busine
 
   - I have said 'no' to my boss before. When my boss requests something which I am unconvinced or I disagree with, I do not hesitate to say 'no' to my boss. I know that my boss will understand if I give a reason why I say 'no'.
     上司に'no'と言った経験はあります。上司が、私が納得できなかったり、賛成できない依頼をしてきた際には、私はためらわず'no'と言います。理由を説明すれば上司が理解してくれると知っているからです。
+
+## Business Calls
+
+1. Have you ever made a business phone call in English? If so, how did it go?英語で仕事の電話をかけたことがあるか。あるならば、どうだったか。
+   1. Yes, I have. When I've worked with Indian engineer, I sometimes phoned him. Since our conversation topic was limited to our project, there was no difficulty to communicate with him.
+      Though I'm not unconfident to communicate with a person who has no acquaintance on phone.
+2. What would be the biggest obstacle for you when making a business phone call in English?英語で仕事の電話をかける際、1番障害になるのはどんな点か。
+   1. Since I am not good at listening English, the biggest obstacle when conversation is understanding what the other person say.
+3. Do you prefer to talk to the person you are calling or to leave a message? Why?電話をかけた相手と話すのと、伝言を残すのとではどちらの方が良いか。なぜか。
+   1. I prefer to talk the person who is calling. I usually use e-mail to communicate with a person who use English. When I call to the person who communicate with English, it means I am in hurry. So, I would like to talk the person about urgent business. I expect leaving a message is too late most of cases. 
+4. When you realize that you have called the wrong number by mistake, do you wait and apologize to the person or do you just hang up? Why?間違った番号にかけてしまったと気付いた時、待って相手に謝るか、それともすぐ電話を切るか。なぜか。
+   1. 
