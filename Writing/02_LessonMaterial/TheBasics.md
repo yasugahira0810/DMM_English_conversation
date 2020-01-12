@@ -57,6 +57,9 @@ What are some other tips that you would give to someone for making a good busine
 
 ## Business Calls
 
+Following is the answer of Exercise 4 Discussion.
+I would like you to correct these answers when we work on Exercise 4 Discussion.
+
 1. Have you ever made a business phone call in English? If so, how did it go?英語で仕事の電話をかけたことがあるか。あるならば、どうだったか。
    1. Yes, I have. When I've worked with Indian engineer, I sometimes phoned him. Since our conversation topic was limited to our project, there was no difficulty to communicate with him.
       Though I'm not unconfident to communicate with a person who has no acquaintance on phone.
