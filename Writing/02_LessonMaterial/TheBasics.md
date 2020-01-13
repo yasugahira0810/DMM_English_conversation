@@ -61,11 +61,11 @@ Following is the answer of Exercise 4 Discussion.
 I would like you to correct these answers when we work on Exercise 4 Discussion.
 
 1. Have you ever made a business phone call in English? If so, how did it go?英語で仕事の電話をかけたことがあるか。あるならば、どうだったか。
-   1. Yes, I have. When I've worked with Indian engineer, I sometimes phoned him. Since our conversation topic was limited to our project, there was no difficulty to communicate with him.
-      Though I'm not unconfident to communicate with a person who has no acquaintance on phone.
+   1. Yes, I have. When I worked with an Indian engineer, I sometimes phone him. Since our conversation topic was limited to our project, there was no difficulty to communicate with him.
+      Though I am not confident to communicate with people I am not acquainted with.
 2. What would be the biggest obstacle for you when making a business phone call in English?英語で仕事の電話をかける際、1番障害になるのはどんな点か。
-   1. Since I am not good at listening English, the biggest obstacle when conversation is understanding what the other person say.
+   1. Since I am not good at listening English, the biggest obstacle when conversation is understanding what the other person is saying.
 3. Do you prefer to talk to the person you are calling or to leave a message? Why?電話をかけた相手と話すのと、伝言を残すのとではどちらの方が良いか。なぜか。
-   1. I prefer to talk the person who is calling. I usually use e-mail to communicate with a person who use English. When I call to the person who communicate with English, it means I am in hurry. So, I would like to talk the person about urgent business. I expect leaving a message is too late most of cases. 
+   1. I prefer to talk the person who is calling. I usually use e-mail to communicate with a person who use English. When I call to the person who communicates in English, it means I am in a hurry. So, I would like to talk to the person about urgent business on the phone. I believe leaving a message is too late in most cases. 
 4. When you realize that you have called the wrong number by mistake, do you wait and apologize to the person or do you just hang up? Why?間違った番号にかけてしまったと気付いた時、待って相手に謝るか、それともすぐ電話を切るか。なぜか。
-   1. I wait and apologize to the person. Because most of cases, I cannot notice calling the  wrong number till the person answer the phone.
+   1. I wait and apologize to the person. Because in most cases, I don't notice that I am calling the  wrong number till the person answers the phone.
