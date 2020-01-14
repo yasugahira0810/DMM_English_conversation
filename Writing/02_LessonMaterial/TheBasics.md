@@ -69,3 +69,18 @@ I would like you to correct these answers when we work on Exercise 4 Discussion.
    1. I prefer to talk the person who is calling. I usually use e-mail to communicate with a person who use English. When I call to the person who communicates in English, it means I am in a hurry. So, I would like to talk to the person about urgent business on the phone. I believe leaving a message is too late in most cases. 
 4. When you realize that you have called the wrong number by mistake, do you wait and apologize to the person or do you just hang up? Why?間違った番号にかけてしまったと気付いた時、待って相手に謝るか、それともすぐ電話を切るか。なぜか。
    1. I wait and apologize to the person. Because in most cases, I don't notice that I am calling the  wrong number till the person answers the phone.
+
+
+
+## Job Interviews
+
+1. Do you think you are generally good at job interviews? Why? Why not?ほとんどの場合、仕事の面接が得意だと思うか。なぜそう思うか。そうは思わないか。
+   1. I think I am not good at job interview. Because I am not quick-witted and sometimes cannot understand interviewer's intent. 
+2. How do you feel when you talk about your own accomplishments?自分自身の成果について語る時、どう感じるか。
+   1. I basically feel proud to talk about my own accomplishments. But I would not like to talk about my own accomplishments Exaggerated, so I tend to talk conservatively.
+3. Do you remember your first job interview? How was it?初めての仕事の面接を覚えているか。どうだったか。
+   1. I remember my first job interview which had during college. Since I didn't prepare to job interview at all, I couldn't appeal to interviewers. As a result, I failed the job interview.
+4. What do you do in order to relax during a job interview?仕事の面接でリラックスするためどうするか。
+   1. I try to keep smile.
+5. What kind of questions do you hate being asked in a job interview?仕事の面接で尋ねられるのが嫌な質問にはどのようなものがあるか。
+   1. Since I am a system engineer, interviewer might ask me about algorithm. I have little experience about implementing algorithm, I hate being asked about algorithm.
