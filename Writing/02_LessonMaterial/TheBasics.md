@@ -84,3 +84,14 @@ I would like you to correct these answers when we work on Exercise 4 Discussion.
    1. I try to keep smile.
 5. What kind of questions do you hate being asked in a job interview?仕事の面接で尋ねられるのが嫌な質問にはどのようなものがあるか。
    1. Since I am a system engineer, an interviewer might ask me about the algorithm. I have little experience about implementing the algorithm, I hate being asked about the algorithm.
+
+## Discussions
+
+1. How do you feel when someone disagrees with you in a business meeting?仕事の会議でだれかがあなたに同意しないと、どう感じるか。
+   1. I do not feel anything, and I am worried about the reason why he disagrees.
+2. Is it easy for you to express disagreement with one of your colleagues without offending them?相手を傷つけることなく、同僚の1人に意見が合わないことを示すのは容易か。
+   1. It is easy for me to express disagreement with one of my colleagues. Since my colleagues are smart to understand that I do not mean harm (good faith) but disagree his opinion, we can discuss more detail.
+3. How do you feel about disagreeing with your boss?上司に同意を示さないことをどう感じるか。
+   1. I do not feel anything.I think expressing disagreement is not a wrong way, if I cannot agree with y boss.All we need is more discussion. 
+4. What do you think about people who constantly interrupt others when they are speaking?話している相手を絶えず遮る人についてどう思うか。
+   1. I rarely meet such an impolite person on my bussiness. Though if I meet such a person, I will ask them to hold on with their opinion and I will get back to them later.
