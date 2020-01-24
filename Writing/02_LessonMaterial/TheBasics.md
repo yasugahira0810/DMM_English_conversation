@@ -69,3 +69,21 @@ I would like you to correct these answers when we work on Exercise 4 Discussion.
    1. I prefer to talk the person who is calling. I usually use e-mail to communicate with a person who use English. When I call to the person who communicates in English, it means I am in a hurry. So, I would like to talk to the person about urgent business on the phone. I believe leaving a message is too late in most cases. 
 4. When you realize that you have called the wrong number by mistake, do you wait and apologize to the person or do you just hang up? Why?間違った番号にかけてしまったと気付いた時、待って相手に謝るか、それともすぐ電話を切るか。なぜか。
    1. I wait and apologize to the person. Because in most cases, I don't notice that I am calling the  wrong number till the person answers the phone.
+
+## Meetings
+
+Following is the answer of Exercise 4 Discussion.
+I would like you to correct these answers when we work on Exercise 4 Discussion.
+
+1. Why are business meetings important?なぜ仕事の会議は大切か。
+   1. I think there are both useful and useless meetings on business. Meeings which to report or to approve are useless because we can do that on mail. Meetings which to sync status and discuss plan are useful. If we don't hold these meetings, we cannot know surround situation, and it leads to each member's wasted work.
+
+2. Do you think regular meetings at work are a waste of time? Why? Why not?職場の定例会議は時間の無駄だと思うか。なぜそう思うか。そうは思わないか。
+   1. As mentioned above, regular meeings to sync status is important for avoid wasted work. Though we should realize that meeings themselves don't create business value. So we should minimize meeting time and maximize other working hours which create business values.
+
+3. What can be done in order to make meetings more effective?会議をより効果的なものにするため、何ができるか。
+   1. Prepare screen and display minutes real time. This practice promotes a common understanding of meeting participants.
+
+4. Is it easy for you to speak up in a meeting?会議で意見を述べるのは簡単か。
+   1. It is easy to speak up if the topic is familiar with me. Though unfortunately many topics are not familiar with me. In such situation it is not easy to speak up because I don't know prerequisite knowledge. We need to confirm prerequisite knowledge at first to speak up. In such situation, I always remember proverb "Nothing is lost for asking."
+
