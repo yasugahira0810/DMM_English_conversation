@@ -70,6 +70,22 @@ I would like you to correct these answers when we work on Exercise 4 Discussion.
 4. When you realize that you have called the wrong number by mistake, do you wait and apologize to the person or do you just hang up? Why?間違った番号にかけてしまったと気付いた時、待って相手に謝るか、それともすぐ電話を切るか。なぜか。
    1. I wait and apologize to the person. Because in most cases, I don't notice that I am calling the  wrong number till the person answers the phone.
 
+
+## Job Interviews
+
+1. Do you think you are generally good at job interviews? Why? Why not?ほとんどの場合、仕事の面接が得意だと思うか。な
+ぜそう思うか。そうは思わないか。
+   1. I think I am not good at job interview. Because I am not quick-witted and sometimes cannot understand interviewer's intent.
+2. How do you feel when you talk about your own accomplishments?自分自身の成果について語る時、どう感じるか。
+   1. I basically feel proud to talk about my own accomplishments. But I would not like to talk about my own accomplishments exaggeratedly, so I tend to talk conservatively.
+3. Do you remember your first job interview? How was it?初めての仕事の面接を覚えているか。どうだったか。
+   1. I remember my first job interview which I had during college. Since I didn't prepare for a job interview at all, I couldn't impress the interviewers. As a result, I failed the job interview.
+4. What do you do in order to relax during a job interview?仕事の面接でリラックスするためどうするか。
+   1. I try to keep smile.
+5. What kind of questions do you hate being asked in a job interview?仕事の面接で尋ねられるのが嫌な質問にはどのような
+ものがあるか。
+   1. Since I am a system engineer, an interviewer might ask me about the algorithm. I have little experience about implementing the algorithm, I hate being asked about the algorithm.
+
 ## Meetings
 
 Following is the answer of Exercise 4 Discussion.
@@ -87,3 +103,26 @@ I would like you to correct these answers when we work on Exercise 4 Discussion.
 4. Is it easy for you to speak up in a meeting?会議で意見を述べるのは簡単か。
    1. It is easy to speak up if the topic is familiar with me. Though unfortunately many topics are not familiar with me. In such situation it is not easy to speak up because I don't know prerequisite knowledge. We need to confirm prerequisite knowledge at first to speak up. In such situation, I always remember proverb "Nothing is lost for asking."
 
+## Job Interviews
+
+1. Do you think you are generally good at job interviews? Why? Why not?ほとんどの場合、仕事の面接が得意だと思うか。なぜそう思うか。そうは思わないか。
+   1. I think I am not good at job interview. Because I am not quick-witted and sometimes cannot understand interviewer's intent. 
+2. How do you feel when you talk about your own accomplishments?自分自身の成果について語る時、どう感じるか。
+   1. I basically feel proud to talk about my own accomplishments. But I would not like to talk about my own accomplishments exaggeratedly, so I tend to talk conservatively.
+3. Do you remember your first job interview? How was it?初めての仕事の面接を覚えているか。どうだったか。
+   1. I remember my first job interview which I had during college. Since I didn't prepare for a job interview at all, I couldn't impress the interviewers. As a result, I failed the job interview.
+4. What do you do in order to relax during a job interview?仕事の面接でリラックスするためどうするか。
+   1. I try to keep smile.
+5. What kind of questions do you hate being asked in a job interview?仕事の面接で尋ねられるのが嫌な質問にはどのようなものがあるか。
+   1. Since I am a system engineer, an interviewer might ask me about the algorithm. I have little experience about implementing the algorithm, I hate being asked about the algorithm.
+
+## Discussions
+
+1. How do you feel when someone disagrees with you in a business meeting?仕事の会議でだれかがあなたに同意しないと、どう感じるか。
+   1. I do not feel anything, and I am worried about the reason why he disagrees.
+2. Is it easy for you to express disagreement with one of your colleagues without offending them?相手を傷つけることなく、同僚の1人に意見が合わないことを示すのは容易か。
+   1. It is easy for me to express disagreement with one of my colleagues. Since my colleagues are smart to understand that I do not mean harm (good faith) but disagree his opinion, we can discuss more detail.
+3. How do you feel about disagreeing with your boss?上司に同意を示さないことをどう感じるか。
+   1. I do not feel anything.I think expressing disagreement is not a wrong way, if I cannot agree with y boss.All we need is more discussion. 
+4. What do you think about people who constantly interrupt others when they are speaking?話している相手を絶えず遮る人についてどう思うか。
+   1. I rarely meet such an impolite person on my bussiness. Though if I meet such a person, I will ask them to hold on with their opinion and I will get back to them later.
