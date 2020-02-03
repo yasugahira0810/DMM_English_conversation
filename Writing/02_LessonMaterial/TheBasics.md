@@ -126,3 +126,39 @@ I would like you to correct these answers when we work on Exercise 4 Discussion.
    1. I do not feel anything.I think expressing disagreement is not a wrong way, if I cannot agree with y boss.All we need is more discussion. 
 4. What do you think about people who constantly interrupt others when they are speaking?話している相手を絶えず遮る人についてどう思うか。
    1. I rarely meet such an impolite person on my bussiness. Though if I meet such a person, I will ask them to hold on with their opinion and I will get back to them later.
+
+
+
+## Presentations
+
+Following is the answer of Exercise 4 Discussion.
+I would like you to correct these answers when we work on Exercise 4 Discussion.
+
+1. Are you nervous when delivering a presentation in front of a lot of people? How do you relax?
+
+   I feel nervous when delivering a presentation.I try to say a little funny during self introduction for making people laugh and warm mood. 
+
+2. What do you think makes a good presentation?
+
+   I think a good presentation is one that conveys the passion of presenter.
+
+3. What are some things that should be avoided when delivering a presentation?
+
+   A presentation which presenter doesn't make  eye contact and just read the material is not a good presentation. So we should avoid it.
+
+4. Do you like when people ask questions about your presentation? Why? Why not?
+
+   I love questions from people, because thinking about questions become learning for me. Conversely, no questions mean the presentation fails.
+
+
+
+## Email
+
+1. Which is easier to write, an email or a letter? Why?手紙とEメールとでは、どちらが書きやすいか。なぜか。
+   1. Email is easier for me, since I don't know most people's address. Even if I know opponent address, I will use email, because it has almost no time lag.
+2. Are emails an effective way to communicate in business? Why? Why not?ビジネスにおいてEメールは効果的なコミュニケーションの手段か。なぜそう言えるか。そうは言えないか。
+   1. Emails are an effective way to communicate in business, because they will be proofs. We can look back them, and avoid communication troubles.
+3. Do you immediately reply to emails sent to you? Why? Why not?送られてきたEメールにすぐ返信するか。なぜそうするか。そうしないか。
+   1. If the content is simple, I immediately reply to emails. On the other hand if the content is complex, I reply after consideration.
+4. Do you check your work email after hours? Do you think this is a good practice? Why? Why not?勤務時間後に仕事のEメールをチェックするか。それは良い習慣だと思うか。なぜそう思うか。そうは思わないか。
+   1. I don't think checking my work email after hours is good. If someone check his work email after hours, the behavior become other person's pressure. Anyone shouldn't check his work email and should take rest.
